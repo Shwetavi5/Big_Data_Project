@@ -2,7 +2,7 @@
 Covid_Vaccination_Anaalysis using Dataflow
 # COVID-19 Vaccination Progress Analysis using Google Dataflow
 
-## Project Group 6
+## Contributors
 - Shwetarani
 - Samhitha Upadhyaya
 - Vamshi Krushna  
